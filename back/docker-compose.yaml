@@ -1,0 +1,15 @@
+version: "3"
+services:
+  interview:
+
+    #Para realizar build local
+    # build:
+    #   context: ./
+    #   dockerfile: ./Dockerfile
+    image: eltonq15/cadastro-pessoas-backend:1.0.0
+    ports:
+      - '8080:8080'
+      - '5005:5005'
+    environment:
+      - ADDITIONAL_OPTS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005 -Xmx1G -Xms256m -XX:MaxMetaspaceSize=256m
+      - PROFILE=dev

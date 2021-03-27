@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jakarta.ws.rs-api-2.1.6.jar>central=
+jakarta.ws.rs-api-2.1.6.pom>central=
+jakarta.ws.rs-api-2.1.6.jar>agrotis-maven-public=
+jakarta.ws.rs-api-2.1.6.pom>agrotis-maven-public=

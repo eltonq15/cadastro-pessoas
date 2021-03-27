@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jersey-bean-validation-2.29.1.jar>central=
+jersey-bean-validation-2.29.1.jar>agrotis-maven-public=
+jersey-bean-validation-2.29.1.pom>agrotis-maven-public=
+jersey-bean-validation-2.29.1.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:46 BRT 2021
+plexus-interpolation-1.14.jar>central=
+plexus-interpolation-1.14.pom>central=
+plexus-interpolation-1.14.jar>agrotis-maven-public=
+plexus-interpolation-1.14.pom>agrotis-maven-public=

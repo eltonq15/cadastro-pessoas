@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jersey-common-2.29.1.jar>central=
+jersey-common-2.29.1.pom>central=
+jersey-common-2.29.1.jar>agrotis-maven-public=
+jersey-common-2.29.1.pom>agrotis-maven-public=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:41 BRT 2021
+byte-buddy-agent-1.10.6.pom>agrotis-maven-public=
+byte-buddy-agent-1.10.6.jar>central=
+byte-buddy-agent-1.10.6.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jakarta.transaction-api-1.3.3.jar>central=
+jakarta.transaction-api-1.3.3.pom>central=
+jakarta.transaction-api-1.3.3.jar>agrotis-maven-public=
+jakarta.transaction-api-1.3.3.pom>agrotis-maven-public=

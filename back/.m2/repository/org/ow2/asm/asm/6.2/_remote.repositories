@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:46 BRT 2021
+asm-6.2.jar>central=
+asm-6.2.pom>central=
+asm-6.2.pom>agrotis-maven-public=
+asm-6.2.jar>agrotis-maven-public=

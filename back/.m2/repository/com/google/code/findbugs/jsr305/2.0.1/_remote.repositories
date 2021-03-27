@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:45 BRT 2021
+jsr305-2.0.1.pom>agrotis-maven-public=
+jsr305-2.0.1.jar>central=
+jsr305-2.0.1.pom>central=

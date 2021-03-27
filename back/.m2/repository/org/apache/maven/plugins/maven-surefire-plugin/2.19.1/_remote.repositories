@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:34 BRT 2021
+maven-surefire-plugin-2.19.1.jar>agrotis-maven-public=
+maven-surefire-plugin-2.19.1.pom>agrotis-maven-public=
+maven-surefire-plugin-2.19.1.jar>central=
+maven-surefire-plugin-2.19.1.pom>central=

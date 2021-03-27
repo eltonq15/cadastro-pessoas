@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jackson-databind-2.10.2.jar>central=
+jackson-databind-2.10.2.pom>agrotis-maven-public=
+jackson-databind-2.10.2.jar>agrotis-maven-public=
+jackson-databind-2.10.2.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+hibernate-commons-annotations-5.1.0.Final.jar>central=
+hibernate-commons-annotations-5.1.0.Final.pom>central=
+hibernate-commons-annotations-5.1.0.Final.jar>agrotis-maven-public=
+hibernate-commons-annotations-5.1.0.Final.pom>agrotis-maven-public=

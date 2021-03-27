@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:40 BRT 2021
+mysql-connector-java-5.1.44.jar>central=
+mysql-connector-java-5.1.44.pom>central=
+mysql-connector-java-5.1.44.pom>agrotis-maven-public=

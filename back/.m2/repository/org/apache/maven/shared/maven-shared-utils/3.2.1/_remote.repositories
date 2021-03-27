@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:46 BRT 2021
+maven-shared-utils-3.2.1.jar>central=
+maven-shared-utils-3.2.1.pom>central=
+maven-shared-utils-3.2.1.jar>agrotis-maven-public=
+maven-shared-utils-3.2.1.pom>agrotis-maven-public=

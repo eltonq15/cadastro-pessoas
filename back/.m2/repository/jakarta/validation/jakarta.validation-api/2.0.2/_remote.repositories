@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 24 19:52:42 BRT 2021
+jakarta.validation-api-2.0.2.pom>central=
+jakarta.validation-api-2.0.2.pom>agrotis-maven-public=
+jakarta.validation-api-2.0.2.jar>agrotis-maven-public=
+jakarta.validation-api-2.0.2.jar>central=
