@@ -42,10 +42,13 @@ function App() {
     switch (modo) {
       case "criar":
         if (nome !== "" && nome !== undefined &&
-          cpf !== "" && cpf?.replaceAll("_", "").replaceAll(".", "").replace("-", "").length === 11 && registros?.filter((reg: any) => reg.cpf === cpf).length === 0 &&
+          cpf !== "" && cpf !== undefined && cpf?.toString()?.replaceAll("_", "").replaceAll(".", "").replace("-", "").length === 11 && registros?.filter((reg: any) => reg.cpf === cpf).length === 0 &&
           naturalidade !== "" && naturalidade !== undefined &&
           nacionalidade !== "" && nacionalidade !== undefined) {
           setButtonEnabled(true);
+          if (email !== undefined && email != "" && (!email.includes("@") || !email.includes("."))) {
+            setButtonEnabled(false);
+          }
         } else {
           setButtonEnabled(false);
         }
